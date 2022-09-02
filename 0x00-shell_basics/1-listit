@@ -1,5 +1,2 @@
 #!/bin/bash
-# author: Ademola
-# Script follows here:
-pwd
 ls
